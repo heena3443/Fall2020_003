@@ -28,6 +28,8 @@ public class TravelDestination {
 		//Adding print statement for name and hobby
 		System.out.println("My name is Wycliff Lumumba. I like reading books in my freetime\n");
 		
+		//Task 2: Name and hobby.
+		System.out.println("My name is Alan Cabrera and I like to play electric bass.");
 	}
 
 }
