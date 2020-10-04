@@ -18,6 +18,10 @@ public class TravelDestination {
 		
 		//Adding print statement with name and hobby (As requested in task 2 of lab 5) (omh118)
 		System.out.println("My name is Moussa Dastgheib. My favorite hobby is photography.\n");
+		
+		//Ading print statement with my name and hobby (task2)
+		System.out.println("My name is Rishika Someshwar. I like listening to audiobooks.\n");
+		
 	}
 
 }
