@@ -24,7 +24,9 @@ public class TravelDestination {
 		
 		//Ading print statement with my name and hobby
 		System.out.println("My name is Paul O'Bar. I like making games.\n");
-		
+				
+		//Ading print statement with my name and hobby
+		System.out.println("My name is Joshua Romero. I enjoy playing video games and watching anime.\n");
 	}
 
 }
