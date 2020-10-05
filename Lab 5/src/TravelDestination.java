@@ -32,7 +32,7 @@ public class TravelDestination {
 		System.out.println("My name is Alan Cabrera and I like to play electric bass.");
 		
 		//Print statement with my name and hobby
-		System.out.println("My name is Kevin Nguyen and I like watching TV
+		System.out.println("My name is Kevin Nguyen and I like playing games
 	}
 
 }
