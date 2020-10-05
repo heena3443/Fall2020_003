@@ -46,6 +46,8 @@ public class TravelDestination {
 		
 		//Added print statement specific to my name and hobby, task 2
 		System.out.println("My name is Gideon Reyes, and I love moshing and stage-diving at concerts.");
+		
+		System.out.println("My name is Amber Beserra, one of my hobbies is drawing.");
 	}
 
 }
