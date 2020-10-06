@@ -97,7 +97,7 @@ public class TravelDestination {
 		//Print statement with full name and hobby
 		System.out.println("My name is Miguel Fabrigas and you're watching Disney Channel.");
 		System.out.println("I also watch anime.");
-		
+		System.out.println("Adding another line since I merged prematurely before making PR");
 	}
 
 }
