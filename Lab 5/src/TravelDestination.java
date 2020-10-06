@@ -77,6 +77,9 @@ public class TravelDestination {
 		System.out.println("My name is Taylor Kulawik and I like to hike and workout.");
 		
 		System.out.println("My name is Ruben Andrade and I like to write code and write stories.");
+		
+		//Print statement with full name and hobby
+		System.out.println("My name is Alan Weikman, and I like to workout and hang with friends.");
 	}
 
 }
