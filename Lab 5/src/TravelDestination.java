@@ -88,7 +88,7 @@ public class TravelDestination {
 		
 		System.out.println("My name is Amber Beserra, one of my hobbies is drawing");
 		
-		System.out.println("My name is Philip Lam and I enjoy playing video games.")
+		System.out.println("My name is Philip Lam and I enjoy playing video games.");
 	}
 
 }
