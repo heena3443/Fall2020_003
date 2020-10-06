@@ -91,7 +91,7 @@ public class TravelDestination {
 		//Task 2: Print name and hobby
 		System.out.println("My name is Jackie Tran. My hobby is watching and playing basketball.");
 
-		//Print statement with full name and hobby
+		//Print statement with full name and hobby.
 		System.out.println("My name is Tuan Nguyen and I like to play soccer");
 		
 		//Print statement with full name and hobby
@@ -105,9 +105,13 @@ public class TravelDestination {
 		// Print statement with full name and hobby
 		System.out.println("My name is Aden Rojas, and I like messing with computers.");
 		
-		//Print Statement with full name and hobby
-		System.out.println("My name is Philip Lam and I like playing video games.");
 
+		// Print statement with full name and hobby
+		System.out.println("My name is Frank Idrogo. I enjoy playing the piano.");
+
+    //Print Statement with full name and hobby
+		System.out.println("My name is Philip Lam and I like playing video games.");
+    
 	}
 
 }
