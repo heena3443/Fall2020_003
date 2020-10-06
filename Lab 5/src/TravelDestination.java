@@ -94,10 +94,18 @@ public class TravelDestination {
 		//Print statement with full name and hobby
 		System.out.println("My name is Tuan Nguyen and I like to play soccer");
 		
+<<<<<<< HEAD
 		//Print statement with full name and hobby
 		System.out.println("My name is Miguel Fabrigas and you're watching Disney Channel.");
 		System.out.println("I also watch anime.");
 		
+=======
+		// Print statement with full name and hobby
+		System.out.println("My name is Jarod Thibodaux, and I like to play baseball.");
+		
+		// Print statement with full name and hobby
+		System.out.println("My name is Aden Rojas, and I like messing with computers.");
+>>>>>>> branch 'master' of https://github.com/heena3443/Fall2020_003.git
 	}
 
 }
