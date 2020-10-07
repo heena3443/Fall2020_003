@@ -122,6 +122,9 @@ public class TravelDestination {
 		
 		System.out.println("My name is Luke Overbey and I like building custom keyboards");
 		
+		//Print statement with full name and hobby
+		System.out.println("My name is Alejadro Navarro and I like making music.");
+		
     
 	}
 
